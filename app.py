@@ -1,5 +1,5 @@
-a = input("enter a no")
+a = int(input("enter a no"))
 if a % 2 == 0:
    ptint("it is an even no")
-else
+else:
    print("it is an odd no")
